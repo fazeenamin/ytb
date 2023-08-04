@@ -1,0 +1,99 @@
+.cat-info {
+  display: inline-block;
+  width: 450px;
+  margin-bottom: 10px;
+}
+.cat-profile {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+.profile-img1 {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+}
+.data {
+  display: inline-block;
+  width: 250px;
+  vertical-align: middle;
+  margin-left: 15px;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.name {
+  font-weight: bold;
+  line-height: 25px;
+}
+.species {
+  line-height: 25px;
+  color: gray;
+}
+.status {
+  line-height: 25px;
+  color: gray;
+}
+.cat-list {
+  display: inline-block;
+  width: 440px;
+}
+.follow {
+  display: inline-block;
+}
+.follow-btn {
+  background-color: rgb(57, 168, 212);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+  font-size: 20px;
+}
+.youtube {
+  display: block;
+  width: 650px;
+}
+.youtube-list {
+  display: inline-block;
+  width: 650px;
+  margin-bottom: 10px;
+}
+.thumnail {
+  display: inline-block;
+  width: 250px;
+  margin-right: 10px;
+}
+.thumbnail-p {
+  object-fit: cover;
+  width: 100%;
+  object-position: center;
+}
+.video-info {
+  display: inline-block;
+  vertical-align: top;
+  width: 350px;
+  margin-top: 5px;
+}
+.video-title {
+  /* width: 300px; */
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: 25px;
+  font-size: 20px;
+}
+.video-author {
+  color: gray;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-top: 0px;
+  font-size: 18px;
+}
+.video-stats {
+  margin-top: 0;
+  color: gray;
+  font-weight: 500;
+  font-size: 18px;
+}

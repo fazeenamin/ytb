@@ -1,0 +1,10 @@
+* {
+  font-family: roboto, Arial;
+  background: transparent;
+}
+body {
+  margin: 0;
+  padding: 0;
+  margin-left: 190px;
+  margin-top: 60px;
+}
